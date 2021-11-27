@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTitle should display comp with custom title 1`] = `
+<span
+  className="productDescription custom-class"
+>
+  Custom product
+</span>
+`;
+
+exports[`ProductTitle should display comp with product name 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug - No image
+  </span>
+</div>
+`;
